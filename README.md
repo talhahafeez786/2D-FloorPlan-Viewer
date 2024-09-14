@@ -14,19 +14,16 @@ Visual Studio Code (VS Code) with the Live Server extension installed
 Installation
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/yourusername/2d-floorplan-viewer.git
+
+git clone https://github.com/talhahafeez786/2D-FloorPlan-Viewer.git
 Navigate to the Project Directory
 
-bash
-Copy code
+
 cd 2d-floorplan-viewer
 Open the Project in VS Code
 
 Open the project folder in Visual Studio Code:
 
-bash 
 code .
 Install Live Server Extension
 
