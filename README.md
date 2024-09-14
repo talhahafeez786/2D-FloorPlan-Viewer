@@ -10,29 +10,40 @@ Navigation: Navigate through the floorplan.
 Prerequisites
 A modern web browser (Chrome, Firefox, Safari, Edge)
 Basic knowledge of HTML, CSS, and JavaScript
+Visual Studio Code (VS Code) with the Live Server extension installed
 Installation
 Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/talhahafeez786/2D-FloorPlan-Viewer.git
+git clone https://github.com/yourusername/2d-floorplan-viewer.git
 Navigate to the Project Directory
 
 bash
 Copy code
 cd 2d-floorplan-viewer
-Open the Project
+Open the Project in VS Code
 
-Open index.html in your preferred web browser.
+Open the project folder in Visual Studio Code:
 
-Usage
+bash 
+code .
+Install Live Server Extension
+
+Open VS Code and go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing Ctrl+Shift+X.
+Search for "Live Server" in the Extensions Marketplace.
+Click the "Install" button to install the Live Server extension by Ritwick Dey.
+Running the Project
+Start Live Server
+
+Open the index.html file in VS Code.
+Right-click inside the editor and select "Open with Live Server" from the context menu.
+Alternatively, you can click the "Go Live" button in the bottom-right corner of the VS Code status bar.
+This will start a local server and open the project in your default web browser.
+
 Prepare the JSON File
 
 Ensure your floorplan.json file is correctly formatted and placed in the data directory.
-
-Load the Floorplan
-
-Open index.html in your web browser to see the floorplan rendered based on the floorplan.json file.
 
 Interact with the Floorplan
 
@@ -47,9 +58,5 @@ Fetching Error: Verify that the path to floorplan.json is correct and that the f
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Contact
-For any questions or issues, please reach out to your-email@example.com.
-
+For any questions or issues, please reach out to talhahafeez83@gmail.com
