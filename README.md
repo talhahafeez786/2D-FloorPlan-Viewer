@@ -15,7 +15,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/2d-floorplan-viewer.git
+git clone https://github.com/talhahafeez786/2D-FloorPlan-Viewer.git
 Navigate to the Project Directory
 
 bash
